@@ -1,0 +1,14 @@
+C:\Users\juniorsantiago\Desktop\Aplicada I\proyect 1.0\VentanaGz\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\juniorsantiago\Desktop\Aplicada I\proyect 1.0\VentanaGz\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\juniorsantiago\Desktop\Aplicada I\proyect 1.0\VentanaGz\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada I\proyect 1.0\VentanaGz\BusinessLogic\bin\Debug\Datos.dll
+C:\Users\juniorsantiago\Desktop\Aplicada I\proyect 1.0\VentanaGz\BusinessLogic\bin\Debug\Entidades.dll
+C:\Users\juniorsantiago\Desktop\Aplicada I\proyect 1.0\VentanaGz\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\juniorsantiago\Desktop\Aplicada I\proyect 1.0\VentanaGz\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\juniorsantiago\Desktop\Aplicada I\proyect 1.0\VentanaGz\BusinessLogic\bin\Debug\Datos.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada I\proyect 1.0\VentanaGz\BusinessLogic\bin\Debug\Entidades.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada I\proyect 1.0\VentanaGz\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\juniorsantiago\Desktop\Aplicada I\proyect 1.0\VentanaGz\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\juniorsantiago\Desktop\Aplicada I\proyect 1.0\VentanaGz\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\juniorsantiago\Desktop\Aplicada I\proyect 1.0\VentanaGz\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\juniorsantiago\Desktop\Aplicada I\proyect 1.0\VentanaGz\BusinessLogic\obj\Debug\BusinessLogic.pdb
